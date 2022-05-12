@@ -32,7 +32,7 @@ module.exports=sum;
 
 
 
-//npm install --save-dev jest
+
 
 
 
