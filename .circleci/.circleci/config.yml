@@ -10,6 +10,7 @@ jobs:
       - image: circleci/node: 16.15.0
 
     steps:
+      - checkout
       - run: npm install
       - run: npm test
 
